@@ -18,5 +18,5 @@
     "market": true
   },
   "subscription": false,
-  "main": "spinners/koapp-spinner-android/android-spinner.html"
+  "main": "spinners/koapp-spinner-android/koapp-spinner-android.html"
 }
