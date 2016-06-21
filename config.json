@@ -5,7 +5,7 @@
     "en-US" : "",
     "es-ES" : ""
   },
-  "version": "1.1.0",
+  "version": "1.1.1",
   "author": "King of App",
   "category": [],
   "price": 0,
@@ -18,5 +18,5 @@
     "market": true
   },
   "subscription": false,
-  "main": "spinners/koapp-spinner-android/android-spinner.html"
+  "main": "spinners/koapp-spinner-android/koapp-spinner-android.html"
 }
